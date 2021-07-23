@@ -1,0 +1,13 @@
+.hmoxygen-panda-bg{
+    background-color: #fceae8;
+}
+.hmoxygen-panda-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px  25px;
+    border-radius: 8px;
+    border: none;
+}
+.hmoxygen-price-color{
+   color:#FF136F ;
+}
